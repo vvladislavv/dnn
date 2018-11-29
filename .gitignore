@@ -30,3 +30,8 @@ octave-workspace
 *.mat
 *.zip
 training_set/
+*.emf
+*.png
+*.pdf
+*.doc
+*.docx
